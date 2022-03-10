@@ -14,12 +14,16 @@ VLP是一个多模态的视觉语言项目：
 5.Weights：模型权重
 
 ## 模块
+
 1.Detect.py:检测程序
+
 2.ZeroShot.py:（针对Cifar10）的zero-shot程序
+
 3.dehaze.py:去雾模块
 
 
-ps.如果您觉得配置环境实在不好搞，不要怕，以下是配置好的conda环境（前提是您要安装有Anaconda3）:
+## ps.如果您觉得配置环境实在不好搞，不要怕，以下是配置好的conda环境（前提是您要安装有Anaconda3）:
+
 clip.zip（百度网盘链接：）
 
 1.解压clip.zip到Anaconda3\envs中
