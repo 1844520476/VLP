@@ -13,13 +13,13 @@ VLP是一个多模态的视觉语言项目：
 
 5.Weights：模型权重
 
-可查看文件里的.txt文件了解文件夹信息
+其他文件夹不一一介绍了：可查看文件里的.txt文件了解文件夹信息
 
 ## 模块
 
-1.Detect.py:检测程序
+1.Detect.py:图片检测程序
 
-2.ZeroShot.py:（针对Cifar10）的zero-shot程序
+2.ZeroShot.py:（针对Cifar10的）zero-shot程序
 
 3.dehaze.py:去雾模块
 
